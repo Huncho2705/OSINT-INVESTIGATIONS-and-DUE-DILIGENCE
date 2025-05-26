@@ -138,7 +138,6 @@ The pictures above shows the clear difference between a real company and a fake 
 ```
  **Then open your browser and go to >> http://127.0.0.1:5001**
 
-
 ### (III) PHOTON; 
 
  This is a versatile OSINT tool designed for targeted web crawling and data extraction. It was created by **S0md3v**, Photon automates the process of extracting useful information from websites, which can then be used for any form of intel gathering.
@@ -155,7 +154,7 @@ The pictures above shows the clear difference between a real company and a fake 
 ```
  python3 photon.py -u faytechremotecareers.com -l 2
 ```
- This command will crawl the website "faytechremotecareers.com", and gathers a few information like IP's, emails or any leaks pertaining to the company.<br><br><br><br><br><br>
+ This command will crawl the website "faytechremotecareers.com", and gathers a few information like IP's, emails or any leaks pertaining to the company.<br>
 
 [[Back to top]](#top)
 
@@ -179,7 +178,7 @@ The pictures above shows the clear difference between a real company and a fake 
 ```
  holehe faytechremotecareers.com
 ```
-<br><br><br><br><br><br>
+<br>
 
 
 ### (V) RECON-NG
